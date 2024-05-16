@@ -1,0 +1,65 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "titre": "Les 10 meilleurs jeux de l'année",
+      "contenu": "Donec tempus molestie nisl in euismod. Quisque vel tortor non mi pulvinar vestibulum. Donec a odio fringilla, lacinia quam eget, varius arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean facilisis ornare arcu maximus mattis. Nunc vitae nisi id turpis auctor malesuada in non dui. Nulla facilisi. Curabitur mattis est neque, tincidunt lobortis risus efficitur et. In vulputate molestie dolor, id tincidunt velit. Pellentesque porttitor est ut ultrices eleifend. Nulla vel suscipit nunc. Morbi ac feugiat urna. Quisque et rutrum eros. Morbi ullamcorper tortor in condimentum aliquet. Fusce vitae imperdiet metus.",
+      "auteur": "Jean Dupont",
+      "date": "2018-01-01T11:52:50.217Z",
+      "user_id": "1",
+      "lienImage": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.jH_-Wlsq7M12T_CDaLpr7wHaEo%26pid%3DApi&sp=1714068708Tf49eb382f865b12cac5f59024c992131e9dbbfcddd1b2a5a9f75ece1231415f6"
+    },
+    {
+      "id": "2",
+      "titre": "Les héros de l'année",
+      "contenu": "Donec tempus molestie nisl in euismod. Quisque vel tortor non mi pulvinar vestibulum. Donec a odio fringilla, lacinia quam eget, varius arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean facilisis ornare arcu maximus mattis. Nunc vitae nisi id turpis auctor malesuada in non dui. Nulla facilisi. Curabitur mattis est neque, tincidunt lobortis risus efficitur et. In vulputate molestie dolor, id tincidunt velit. Pellentesque porttitor est ut ultrices eleifend. Nulla vel suscipit nunc. Morbi ac feugiat urna. Quisque et rutrum eros. Morbi ullamcorper tortor in condimentum aliquet. Fusce vitae imperdiet metus.",
+      "auteur": "Jean Dupont",
+      "date": "2018-01-01T11:52:50.217Z",
+      "user_id": "1",
+      "lienImage": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.K8urvQKqHarydD5ixvdQBAHaFI%26pid%3DApi&sp=1714068708Te75e49f580cdd27338da2493a58d763af822061de5353a47bb3c104c71f67148"
+    },
+    {
+      "id": "3",
+      "titre": "Les gens de l'année",
+      "contenu": "Donec tempus molestie nisl in euismod. Quisque vel tortor non mi pulvinar vestibulum. Donec a odio fringilla, lacinia quam eget, varius arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean facilisis ornare arcu maximus mattis. Nunc vitae nisi id turpis auctor malesuada in non dui. Nulla facilisi. Curabitur mattis est neque, tincidunt lobortis risus efficitur et. In vulputate molestie dolor, id tincidunt velit. Pellentesque porttitor est ut ultrices eleifend. Nulla vel suscipit nunc. Morbi ac feugiat urna. Quisque et rutrum eros. Morbi ullamcorper tortor in condimentum aliquet. Fusce vitae imperdiet metus.",
+      "auteur": "Jean Dupont",
+      "date": "2018-01-01T11:52:50.217Z",
+      "user_id": "1",
+      "lienImage": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ihzVLUW8M0VpCU8fsaZPggHaHp%26pid%3DApi&sp=1714068708T11c4bb8bb6c5e9cb6b1b31473517373b3aac7298fa4837403cbdbcbc71f28145"
+    },
+    {
+      "id": "4",
+      "titre": "Les héros de l'année",
+      "contenu": "Donec tempus molestie nisl in euismod. Quisque vel tortor non mi pulvinar vestibulum. Donec a odio fringilla, lacinia quam eget, varius arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean facilisis ornare arcu maximus mattis. Nunc vitae nisi id turpis auctor malesuada in non dui. Nulla facilisi. Curabitur mattis est neque, tincidunt lobortis risus efficitur et. In vulputate molestie dolor, id tincidunt velit. Pellentesque porttitor est ut ultrices eleifend. Nulla vel suscipit nunc. Morbi ac feugiat urna. Quisque et rutrum eros. Morbi ullamcorper tortor in condimentum aliquet. Fusce vitae imperdiet metus.",
+      "auteur": "Jean Dupont",
+      "date": "2018-01-01T11:52:50.217Z",
+      "user_id": "1",
+      "lienImage": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Bcj67X4-bBIGe01MEHDO1QHaEy%26pid%3DApi&sp=1714068708T5346a6679a6bcb437b4482b6ab3d2929daab359df6991f49664af73df8dba9ef"
+    },
+    {
+      "id": "5",
+      "titre": "Test nextjs",
+      "contenu": "Donec tempus molestie nisl in euismod. Quisque vel tortor non mi pulvinar vestibulum. Donec a odio fringilla, lacinia quam eget, varius arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean facilisis ornare arcu maximus mattis. Nunc vitae nisi id turpis auctor malesuada in non dui. Nulla facilisi. Curabitur mattis est neque, tincidunt lobortis risus efficitur et. In vulputate molestie dolor, id tincidunt velit. Pellentesque porttitor est ut ultrices eleifend. Nulla vel suscipit nunc. Morbi ac feugiat urna. Quisque et rutrum eros. Morbi ullamcorper tortor in condimentum aliquet. Fusce vitae imperdiet metus.",
+      "auteur": "Jean Dupont",
+      "date": "2018-01-01T11:52:50.217Z",
+      "user_id": "1",
+      "lienImage": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.-ZEkWISDQS93E7uNPNc0FAHaEV%26pid%3DApi&sp=1714068708T9a197971b7816d1be7eb003498437ec8bd851302be878e83bd63a27fa3c1333e"
+    },
+    {
+      "id": "552",
+      "titre": "4 pillules pour une vie riche et sans stress ",
+      "contenu": "4 pillules pour une vie riche et sans stress 4 pillules pour une vie riche et sans stress 4 pillules pour une vie riche et sans stress 4 pillules pour une vie riche et sans stress 4 pillules pour une vie riche et sans stress ",
+      "auteur": "Johan Tekfak",
+      "date": "2024-04-16T14:27:42.145Z",
+      "user_id": "1",
+      "lienImage": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.R8umT0h4lL_RdOgI2dOG5wHaDt%26pid%3DApi&sp=1714068708Te5c9e457ba9d68bce7237a41ef2d1ee6a415d6a6a4ee669426e56c566133e79e"
+    },
+    {
+      "id": "73",
+      "titre": "Tout pour ce cours",
+      "contenu": "L'apprentissage du cours...",
+      "auteur": "Gafour YEKINI",
+      "date": "2024-04-17T11:21:48.111Z"
+    }
+  ]
+}
